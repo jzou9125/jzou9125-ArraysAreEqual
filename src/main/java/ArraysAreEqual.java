@@ -20,5 +20,6 @@ public class ArraysAreEqual {
             if (a[index] != b[index]) return false;
         }
         return true;
+    
     }
 }
